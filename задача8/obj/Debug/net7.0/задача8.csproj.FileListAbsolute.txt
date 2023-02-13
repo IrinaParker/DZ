@@ -1,0 +1,15 @@
+E:\Desktop\СИШАРП\домашка1\задача8\obj\Debug\net7.0\задача8.csproj.AssemblyReference.cache
+E:\Desktop\СИШАРП\домашка1\задача8\obj\Debug\net7.0\задача8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\СИШАРП\домашка1\задача8\obj\Debug\net7.0\задача8.AssemblyInfoInputs.cache
+E:\Desktop\СИШАРП\домашка1\задача8\obj\Debug\net7.0\задача8.AssemblyInfo.cs
+E:\Desktop\СИШАРП\домашка1\задача8\obj\Debug\net7.0\задача8.csproj.CoreCompileInputs.cache
+E:\Desktop\СИШАРП\домашка1\задача8\bin\Debug\net7.0\задача8.exe
+E:\Desktop\СИШАРП\домашка1\задача8\bin\Debug\net7.0\задача8.deps.json
+E:\Desktop\СИШАРП\домашка1\задача8\bin\Debug\net7.0\задача8.runtimeconfig.json
+E:\Desktop\СИШАРП\домашка1\задача8\bin\Debug\net7.0\задача8.dll
+E:\Desktop\СИШАРП\домашка1\задача8\bin\Debug\net7.0\задача8.pdb
+E:\Desktop\СИШАРП\домашка1\задача8\obj\Debug\net7.0\задача8.dll
+E:\Desktop\СИШАРП\домашка1\задача8\obj\Debug\net7.0\refint\задача8.dll
+E:\Desktop\СИШАРП\домашка1\задача8\obj\Debug\net7.0\задача8.pdb
+E:\Desktop\СИШАРП\домашка1\задача8\obj\Debug\net7.0\задача8.genruntimeconfig.cache
+E:\Desktop\СИШАРП\домашка1\задача8\obj\Debug\net7.0\ref\задача8.dll
