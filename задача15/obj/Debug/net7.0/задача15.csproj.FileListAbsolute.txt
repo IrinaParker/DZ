@@ -1,0 +1,5 @@
+E:\Desktop\Сишарп\домашка1\задача15\obj\Debug\net7.0\задача15.csproj.AssemblyReference.cache
+E:\Desktop\Сишарп\домашка1\задача15\obj\Debug\net7.0\задача15.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Сишарп\домашка1\задача15\obj\Debug\net7.0\задача15.AssemblyInfoInputs.cache
+E:\Desktop\Сишарп\домашка1\задача15\obj\Debug\net7.0\задача15.AssemblyInfo.cs
+E:\Desktop\Сишарп\домашка1\задача15\obj\Debug\net7.0\задача15.csproj.CoreCompileInputs.cache
