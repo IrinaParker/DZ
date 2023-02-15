@@ -7,12 +7,12 @@ int number2 = 0;
 int number3 = 0;
 int number4 = 0;
 
-number1 = number / 10000;
-number2 = number % 10;
-number3 = number / 1000 % 10;
-number4 = number % 100 / 10;
+number1 = number/10000;
+number2 = number%10;
+number3 = number/1000%10;
+number4 = number%100/10;
 
-if (number1 == number2 && number3 == number4);
+if (number1 == number2 && number3 == number4)
     {
         Console.Write("Полиндром");
     }
