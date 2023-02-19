@@ -1,0 +1,15 @@
+E:\Desktop\Сишарп\домашка1\задача36\bin\Debug\net7.0\задача36.exe
+E:\Desktop\Сишарп\домашка1\задача36\bin\Debug\net7.0\задача36.deps.json
+E:\Desktop\Сишарп\домашка1\задача36\bin\Debug\net7.0\задача36.runtimeconfig.json
+E:\Desktop\Сишарп\домашка1\задача36\bin\Debug\net7.0\задача36.dll
+E:\Desktop\Сишарп\домашка1\задача36\bin\Debug\net7.0\задача36.pdb
+E:\Desktop\Сишарп\домашка1\задача36\obj\Debug\net7.0\задача36.csproj.AssemblyReference.cache
+E:\Desktop\Сишарп\домашка1\задача36\obj\Debug\net7.0\задача36.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Сишарп\домашка1\задача36\obj\Debug\net7.0\задача36.AssemblyInfoInputs.cache
+E:\Desktop\Сишарп\домашка1\задача36\obj\Debug\net7.0\задача36.AssemblyInfo.cs
+E:\Desktop\Сишарп\домашка1\задача36\obj\Debug\net7.0\задача36.csproj.CoreCompileInputs.cache
+E:\Desktop\Сишарп\домашка1\задача36\obj\Debug\net7.0\задача36.dll
+E:\Desktop\Сишарп\домашка1\задача36\obj\Debug\net7.0\refint\задача36.dll
+E:\Desktop\Сишарп\домашка1\задача36\obj\Debug\net7.0\задача36.pdb
+E:\Desktop\Сишарп\домашка1\задача36\obj\Debug\net7.0\задача36.genruntimeconfig.cache
+E:\Desktop\Сишарп\домашка1\задача36\obj\Debug\net7.0\ref\задача36.dll
